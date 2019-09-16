@@ -1,5 +1,8 @@
 _repo: Bobbins-of-Belgium-A-book-of-Belgian-lace-lace-workers-lace-schools-and-lace-villages_60275
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60275-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Kellogg, Charlotte
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38714
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Kellogg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60275#Bobbins-of-Belgium-A-book-of-Belgian-lace-lace-workers-lace-schools-and-lace-villages
 gutenberg_issued: '2019-09-11'
 gutenberg_type: Text
 identifiers:

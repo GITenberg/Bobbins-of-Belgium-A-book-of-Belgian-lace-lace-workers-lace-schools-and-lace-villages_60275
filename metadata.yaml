@@ -1,0 +1,30 @@
+_repo: Bobbins-of-Belgium-A-book-of-Belgian-lace-lace-workers-lace-schools-and-lace-villages_60275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kellogg, Charlotte
+    alias: Kellogg, Charlotte Hoffman
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '38714'
+    url: http://www.gutenberg.org/2009/agents/38714
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Kellogg
+description: ''
+gutenberg_issued: '2019-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60275'
+  lccn: '20005590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lace and lace making -- Belgium'
+- !lcc 'NK'
+- !lcsh 'Brussels lace committee'
+- GITenberg
+title: 'Bobbins of Belgium
+
+  A book of Belgian lace, lace-workers, lace-schools and lace-villages'
+url: http://www.gutenberg.org/ebooks/60275
